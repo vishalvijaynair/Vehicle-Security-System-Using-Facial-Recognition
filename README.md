@@ -1,2 +1,2 @@
 # Vehicle_Security_Using_Facial_Recognition
-Mini Project created using python 
+Mini Project created using Python and Machine Learning
